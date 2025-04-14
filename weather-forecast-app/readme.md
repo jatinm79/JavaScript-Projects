@@ -2,7 +2,9 @@
 
 A sleek and modern weather application that lets users search and view real-time weather data for any city. Built with HTML, CSS, and JavaScript using the OpenWeatherMap API, this app displays temperature, humidity, wind speed, and weather icons in an intuitive UI.
 
+
 ---
+
 
 ## 📸 Screenshots
 
@@ -72,4 +74,9 @@ This project uses the **OpenWeatherMap API**. To make it work:
 🔗 [LinkedIn](https://www.linkedin.com/in/jatinm9)  
 📫 Feel free to reach out for collaborations!
 
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
   
