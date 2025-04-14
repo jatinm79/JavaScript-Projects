@@ -20,7 +20,7 @@ A sleek and modern weather application that lets users search and view real-time
 
 - **HTML5**
 - **CSS3** – Gradient UI with modern design
-- **JavaScript (Vanilla)** – API calls and DOM manipulation
+- **JavaScript** – API calls and DOM manipulation
 - **OpenWeatherMap API**
 
 ---
