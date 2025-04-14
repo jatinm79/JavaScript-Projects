@@ -7,10 +7,10 @@ A sleek and modern weather application that lets users search and view real-time
 ## 📸 Screenshots
 
 ### 🔍 Search View
-![Search View](./assets/screenshots/Screenshot%202025-04-14%20at%2012.13.39%20PM.png)
+![Search View](./images/Weather_app_img_1.png)
 
 ### ☀️ Weather Display View
-![Weather Display View](./assets/screenshots/Screenshot%202025-04-14%20at%2012.13.58%20PM.png)
+![Weather Display View](./images/Weather_app_img_2.png)
 
 ---
 
