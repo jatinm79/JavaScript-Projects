@@ -67,12 +67,12 @@ This project uses the **OpenWeatherMap API**. To make it work:
        
 ---
 
-## 🧠 Author
+##  Author
 
 **Jatin Mahajan**  
-💼 Passionate about front-end development, UI/UX design, and automation tools.  
-🔗 [LinkedIn](https://www.linkedin.com/in/jatinm9)  
-📫 Feel free to reach out for collaborations!
+ Passionate about front-end development, UI/UX design, and automation tools.  
+ [LinkedIn](https://www.linkedin.com/in/jatinm9)  
+ Feel free to reach out for collaborations!
 
 ---
 
