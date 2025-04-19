@@ -25,13 +25,13 @@ A **sleek, modern** weather application that allows users to search and view **r
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔍 City-based weather search
-- 🌡️ Real-time temperature display in Celsius
-- 💧 Humidity and 🌬️ wind speed information
-- 🌇 Dynamic weather icons
-- 🎨 Clean and responsive UI with gradient effects
+-  City-based weather search
+-  Real-time temperature display in Celsius
+-  Humidity and 🌬️ wind speed information
+-  Dynamic weather icons
+-  Clean and responsive UI with gradient effects
 
 ---
 
