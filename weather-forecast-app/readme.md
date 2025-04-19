@@ -5,7 +5,7 @@ A **sleek, modern** weather application that allows users to search and view **r
 
 ---  
 
-
+  
 ##  Screenshots
 
 ###  Search View
