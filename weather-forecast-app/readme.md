@@ -11,12 +11,12 @@ A **sleek, modern** weather application that allows users to search and view **r
 ###  Search View
 ![Search View](./images/Weather_app_img_1.png)
 
-### ☀️ Weather Display View
+###  Weather Display View
 ![Weather Display View](./images/Weather_app_img_2.png)
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **HTML5**
 - **CSS3** – Gradient UI with modern design
