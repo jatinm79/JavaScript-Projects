@@ -3,7 +3,7 @@
 A **sleek, modern** weather application that allows users to search and view **real-time weather data** for any city. Built with **HTML, CSS, and JavaScript** using the **OpenWeatherMap API**, this app displays temperature, humidity, wind speed, and weather icons — all wrapped in a stylish, intuitive interface.
 
 
----</br>
+--- <br>
 
   
 ##  Screenshots
