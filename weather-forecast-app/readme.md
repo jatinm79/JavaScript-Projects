@@ -35,7 +35,7 @@ A **sleek, modern** weather application that allows users to search and view **r
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the Repository**
    ```bash
@@ -55,7 +55,7 @@ A **sleek, modern** weather application that allows users to search and view **r
 
 ---
 
-## 🔑 API Configuration
+##  API Configuration
 
 This project uses the **OpenWeatherMap API**. To make it work:
 
