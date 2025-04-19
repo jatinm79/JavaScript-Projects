@@ -6,9 +6,9 @@ A **sleek, modern** weather application that allows users to search and view **r
 ---
 
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🔍 Search View
+###  Search View
 ![Search View](./images/Weather_app_img_1.png)
 
 ### ☀️ Weather Display View
