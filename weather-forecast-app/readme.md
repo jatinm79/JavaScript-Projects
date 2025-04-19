@@ -15,7 +15,8 @@ A **sleek, modern** weather application that allows users to search and view **r
 ###  Weather Display View
 ![Weather Display View](./images/Weather_app_img_2.png)
 
----
+#
+<br>
 
 ##  Tech Stack
 
@@ -24,7 +25,8 @@ A **sleek, modern** weather application that allows users to search and view **r
 - **JavaScript** – API calls and DOM manipulation
 - **OpenWeatherMap API**
 
----
+#
+<br>
 
 ##  Features
 
@@ -34,7 +36,8 @@ A **sleek, modern** weather application that allows users to search and view **r
 -  Dynamic weather icons
 -  Clean and responsive UI with gradient effects
 
----
+#
+<br>
 
 ##  How to Run
 
@@ -54,7 +57,8 @@ A **sleek, modern** weather application that allows users to search and view **r
 3.	**Enter a City Name**
 	  - Start typing any city name and press the search icon to get the latest weather data.
 
----
+#
+<br>
 
 ##  API Configuration
 
@@ -65,8 +69,9 @@ This project uses the **OpenWeatherMap API**. To make it work:
 
    ```js
    const apiKey = "YOUR_API_KEY_HERE";
-       
----
+
+#
+<br>
 
 ##  Author
 
@@ -75,7 +80,8 @@ This project uses the **OpenWeatherMap API**. To make it work:
  [LinkedIn](https://www.linkedin.com/in/jatinm9)  
  Feel free to reach out for collaborations!
 
----
+#
+<br>
 
 ## 📄 License
 
