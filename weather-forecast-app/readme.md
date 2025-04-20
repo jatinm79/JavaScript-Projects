@@ -1,6 +1,12 @@
 # 🌤️ Weather App
 
-A **sleek, modern** weather application that allows users to search and view **real-time weather data** for any city. Built with **HTML, CSS, and JavaScript** using the **OpenWeatherMap API**, this app displays temperature, humidity, wind speed, and weather icons — all wrapped in a stylish, intuitive interface.
+The **Weather Web App** is a real-time weather tracking application built using the core front-end technologies: **HTML**, **CSS**, and **JavaScript**. It provides users with instant weather information for any location they search, leveraging external APIs to fetch accurate and up-to-date weather conditions.
+
+Designed to be **lightweight**, **fast**, and **responsive**, the app serves as both a **utility** and a **demonstration** of:
+
+- Dynamic web programming
+- API integration
+- Front-end development principles
 
 
 #
