@@ -1,8 +1,5 @@
 # To-Do List
 
-<br>
-
-## Project Description
 
 This is a simple and efficient To-Do List application. It allows users to add, delete, and mark tasks as complete. The app is designed with a clean user interface and provides a seamless task management experience.
 
