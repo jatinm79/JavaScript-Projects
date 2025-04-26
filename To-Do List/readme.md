@@ -7,14 +7,15 @@ This is a simple and efficient To-Do List application. It allows users to add, d
 
 ## Screenshots
 
-### Home Page
-![Home Page](assets/screenshot1.png)
+### Initial View
+![Initial View](./Screenshot%202025-04-26%20at%206.32.51%E2%80%AFPM.jpeg)
 
 ### Adding a Task
-![Adding a Task](assets/screenshot2.png)
+![Tasks Added](./Screenshot%202025-04-26%20at%206.36.33%E2%80%AFPM.png)
 
 ### Completed Task
-![Completed Task](assets/screenshot3.png)
+![Tasks Completed](./Screenshot%202025-04-26%20at%206.37.11%E2%80%AFPM.jpeg)
+
 
 <br>
 
