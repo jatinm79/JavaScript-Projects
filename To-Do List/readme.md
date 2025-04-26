@@ -41,5 +41,6 @@ This is a simple and efficient To-Do List application. It allows users to add, d
 
 ## Conclusion
 
+The To-Do List project offers essential functionalities like adding, completing, and deleting tasks while maintaining a clean and responsive design. It also provides a solid starting point for anyone looking to strengthen their skills in HTML, CSS, and JavaScript through a practical and useful application.
 
 
