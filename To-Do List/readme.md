@@ -14,7 +14,7 @@ This is a simple and efficient To-Do List application. It allows users to add, d
 ![Tasks Added](./Images/Added_Task.png)
 
 ### Completed Task
-![Tasks Completed](./Images/Completed_Task.png)
+![Tasks Completed](./images/Completed Task.png)
 
 
 <br>
