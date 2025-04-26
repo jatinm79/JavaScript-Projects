@@ -8,13 +8,13 @@ This is a simple and efficient To-Do List application. It allows users to add, d
 ## Screenshots
 
 ### Initial View
-![Initial View](./Initial_View.png)
+![Initial View](images/Initial_View.png)
 
-### Added Task
-![Tasks Added](./Images/Added_Task.png)
+### 2. Added Task
+![Added Task](images/Added_Task.png)
 
-### Completed Task
-!(./Completed Task.png)
+### 3. Completed Tasks
+![Completed Task](images/Completed_Task.png)
 
 
 <br>
