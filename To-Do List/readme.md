@@ -10,7 +10,7 @@ This is a simple and efficient To-Do List application. It allows users to add, d
 ### Initial View
 ![Initial View](./Screenshot%202025-04-26%20at%206.32.51%E2%80%AFPM.jpeg)
 
-### Adding a Task
+### Added Task
 ![Tasks Added](./Screenshot%202025-04-26%20at%206.36.33%E2%80%AFPM.png)
 
 ### Completed Task
