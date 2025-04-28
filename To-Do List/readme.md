@@ -29,7 +29,7 @@ This is a simple and efficient To-Do List application. It allows users to add, d
 
 <br>
 
-## Technologies Used
+## Tech Stack 
 
 - HTML5
 - CSS3
