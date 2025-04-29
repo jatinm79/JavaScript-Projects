@@ -38,7 +38,7 @@ Designed to be **lightweight**, **fast**, and **responsive**, the app serves as 
 
 -  City-based weather search
 -  Real-time temperature display in Celsius
--  Humidity and 🌬️ wind speed information
+-  Humidity and wind speed information
 -  Dynamic weather icons
 -  Clean and responsive UI with gradient effects
 
