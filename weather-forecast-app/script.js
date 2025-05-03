@@ -1,5 +1,5 @@
 // OpenWeatherMap API key(If in case this key is not working,try to insert key of your own OpenWeatherMap API)
-const apiKey = "57215658ef813762af157c398aa843c1";
+const apiKey = "{Insert your API Key from OpenWeatherMap website}";
 
 // Base URL for weather API with metric units (Celsius)
       const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";      
