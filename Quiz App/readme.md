@@ -17,6 +17,7 @@ The **Quiz App** is a dynamic and interactive web/mobile application designed to
 - User-friendly interface  
 - Multiple-choice questions
 - Instant feedback on answers  
+- Final score summary 
 
 <br>
 
