@@ -12,6 +12,13 @@ The **Quiz App** is a dynamic and interactive web/mobile application designed to
 
 <br>
 
+##  Features 
+
+- User-friendly interface  
+- Multiple-choice questions   
+
+<br>
+
 ## Conclusion
 
 The Quiz App is a versatile and engaging platform for testing and improving knowledge across various domains. Its user-friendly design, instant feedback mechanism, and scalable architecture make it ideal for educational institutions, training programs, or casual learning. With future enhancements and community contributions, the app can evolve into a powerful tool for interactive learning and self-assessment.
