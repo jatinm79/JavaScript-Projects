@@ -38,7 +38,7 @@ A **To-Do List** is a task management application that enables users to create, 
 
 ## Conclusion
 
-The To-Do List project offers essential functionalities like adding, completing, and deleting tasks while maintaining a clean and responsive design. 
+The **To-Do List** app showcases web development concepts like DOM manipulation, event handling, and dynamic data rendering using HTML, CSS, and JavaScript. It provides core functionalities such as adding, deleting, and marking tasks as complete. This project serves as a strong foundation for beginners to understand interactive UI development and can be extended with features like local storage or task filtering.
 
 ## License
 
