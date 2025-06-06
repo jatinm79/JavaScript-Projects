@@ -7,7 +7,7 @@ The **Quiz App** is a cross-platform, interactive application developed to evalu
 ## Screenshots
 
 
-
+<br>
 
 ## Tech Stack 
 
