@@ -28,7 +28,7 @@ The **Quiz App** is a cross-platform, interactive application developed to evalu
 
 ## Conclusion
 
-The Quiz App is a scalable, modular platform with a responsive UI and real-time feedback mechanism. Designed for education, training programs, and self-learning. Future enhancements like AI-driven question generation and adaptive learning can further elevate its capabilities and the app can evolve into a powerful tool for interactive learning and self-assessment.
+The Quiz App is a scalable, modular platform with a responsive UI and real-time feedback mechanism. Designed for education, training programs, and self-learning. The app can evolve into a powerful tool for interactive learning and self-assessment.
  
 <br>
 
