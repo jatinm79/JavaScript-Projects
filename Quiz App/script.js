@@ -45,7 +45,7 @@ const nextButton = document.getElementById("next-btn");
 let currentQuestionIndex = 0;
 let score = 0;
 
-// 
+// Start the Quiz
 function startQuiz() {
   currentQuestionIndex = 0;
   score = 0;
