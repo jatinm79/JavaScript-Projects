@@ -27,7 +27,7 @@ Designed to be **lightweight**, **fast**, and **responsive**, the app serves as 
 ##  Tech Stack
 
 - **HTML5**
-- **CSS3** – Gradient UI with modern design
+- **CSS3**
 - **JavaScript** – API calls and DOM manipulation
 - **OpenWeatherMap API**
 
