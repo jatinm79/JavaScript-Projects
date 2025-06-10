@@ -13,7 +13,7 @@ The **Quiz App** is a cross-platform, interactive application developed to evalu
 
 - **HTML5**
 - **CSS3**
-- JavaScript
+- **JavaScript**
 
 <br>
 
