@@ -11,8 +11,8 @@ The **Quiz App** is a cross-platform, interactive application developed to evalu
 
 ## Tech Stack 
 
-- HTML5
-- CSS3
+- **HTML5**
+- **CSS3**
 - JavaScript
 
 <br>
