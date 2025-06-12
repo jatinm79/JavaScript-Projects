@@ -30,9 +30,9 @@ A **To-Do List** is a task management application that enables users to create, 
 
 ## Tech Stack 
 
-- HTML5
-- CSS3
-- JavaScript
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 <br>
 
