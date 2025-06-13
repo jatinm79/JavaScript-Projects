@@ -46,4 +46,5 @@ function saveData(){
 function showTask(){
     listContainer.innerHTML = localStorage.getItem("data");
 }
+/ Load tasks when the page loads
 showTask();
