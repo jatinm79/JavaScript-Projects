@@ -15,7 +15,7 @@ function addTask(){
         li.appendChild(span);
     }
     inputBox.value = "";
-    saveData();
+    saveData();           // Save the current task list to localStorage
 }
 
 // listContainer.addEventListener("click", function(e){
