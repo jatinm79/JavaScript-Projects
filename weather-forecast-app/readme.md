@@ -4,9 +4,9 @@ The **Weather Web App** is a real-time weather tracking application built using 
 
 Designed to be **lightweight**, **fast**, and **responsive**, the app serves as both a **utility** and a **demonstration** of:
 
-- Dynamic web programming
-- API integration
-- Front-end development principles
+- **Dynamic web programming**
+- **API integration**
+- **Front-end development principles**
 
 
 #
